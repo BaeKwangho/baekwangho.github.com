@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "BaeKwangho"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/imgs/avatar.jpg"
   bio              : "열심히 살 시기 96년생"
-  location         : "Somewhere"
+  location         : "Daegu, South Korea"
   email            : "qorhkdgh00@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:qorhkdgh00@gmail.com"
+    - #label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:qorhkdgh00@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -110,10 +110,10 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/bkh1211"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/BaeKwangho"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -126,10 +126,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/bkh1211"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/BaeKwangho"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
