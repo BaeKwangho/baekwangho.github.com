@@ -55,13 +55,15 @@ layout: default
       {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
+
+      
     </div>
 
     {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
   </article>
-
+  
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
@@ -86,4 +88,13 @@ layout: default
       </div>
     </div>
   {% endif %}
+</div>
+<div class="utterances">
+  <script src="https://utteranc.es/client.js"
+        repo="BaeKwangho/baekwangho.github.com"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 </div>
