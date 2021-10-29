@@ -1,7 +1,8 @@
 ---
 layout: posts
 permalink: /about/
-author_profile: true
+---
+
 ---
 
 # <center>ㅡ효율과 성능을 좋아하는 사람입니다.ㅡ</center>
