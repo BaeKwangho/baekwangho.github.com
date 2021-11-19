@@ -1,7 +1,8 @@
 ---
 layout: archive
 permalink: /about/
-author_profile: true
+---
+
 ---
 
 # 주니어 개발자 배광호입니다.
