@@ -178,6 +178,13 @@ td > code {
   }
 }
 
+img + em {
+  display: block;
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
+
 /* horizontal rule */
 
 hr {
